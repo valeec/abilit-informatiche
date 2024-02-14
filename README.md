@@ -1,5 +1,3 @@
 # Repository per il progetto di Abilità Informatiche
 
-Dal terminale mi sono spostata con cd nella cartella Download dove sono presenti le cartelle da spostare. Poi ho scritto il seguente comando per copiare le cartelle nella directory del corso.
-
-cp -r MockMeasures_2PCF_Test1 MockMeasures_2PCF_Test2 MockMeasures_2PCF_Test3 /home/vale/Documents/MAAAAAAAG/ABILIT_INFORMATICHE
+Il file bash.sh contiene le istruzioni per scaricare i dati necessari al programma AbInfo.ipynb e farlo girare correttamente.
